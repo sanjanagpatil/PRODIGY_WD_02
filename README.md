@@ -1,3 +1,32 @@
+# 🕒 Stylish Stopwatch Web Application
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-blue?style=flat-square)
+
+A modern, responsive stopwatch web application built using **HTML5**, **CSS3**, and **Vanilla JavaScript**. This stopwatch features a glassmorphism-inspired user interface, real-time time tracking, lap recording, and stylish controls.
+
+---
+
+## 📸 Preview
+
+![Stopwatch UI Preview](preview.png)
+
+> *(Add your screenshot named `preview.png` in the repo root or replace with actual image link)*
+
+---
+
+## 🚀 Live Demo
+
+🌐 [Live Stopwatch App](https://your-username.github.io/stopwatch-app)
+
+> *(Update this URL if deployed on GitHub Pages, Netlify, Vercel, etc.)*
+
+---
+
+## 📂 File Structure
+
 
 ---
 

@@ -25,9 +25,13 @@ A modern, responsive stopwatch web application built using **HTML5**, **CSS3**, 
 ---
 
 ## 📂 File Structure 
+
 stopwatch-app/
+
 ├── index.html # HTML structure
+
 ├── style.css # Glassmorphism + neon UI styles
+
 └── script.js # Stopwatch logic & interactions
 
 

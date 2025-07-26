@@ -1,0 +1,108 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Rajdhani', sans-serif;
+  background: linear-gradient(145deg, #1b1f27, #2c3142);
+  color: #fff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.container {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 2rem;
+  border-radius: 16px;
+  backdrop-filter: blur(12px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  text-align: center;
+  width: 100%;
+  max-width: 400px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #00ffe5;
+  text-shadow: 0 0 10px #00ffe5aa;
+}
+
+.timer {
+  font-size: 2.5rem;
+  margin: 1rem 0 2rem;
+  letter-spacing: 2px;
+  color: #ffffff;
+  text-shadow: 0 0 20px #39ff14;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.btn {
+  flex: 1;
+  margin: 0 0.3rem;
+  padding: 0.7rem 1rem;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background: rgba(0, 255, 200, 0.1);
+  color: #00ffe5;
+  transition: all 0.3s ease;
+  box-shadow: 0 0 10px #00ffe5aa inset;
+}
+
+.btn:hover {
+  background: #00ffe5;
+  color: #000;
+  box-shadow: 0 0 20px #00ffe5;
+}
+
+.laps-section {
+  text-align: left;
+}
+
+.laps-section h2 {
+  margin-bottom: 0.5rem;
+  color: #00ffc8;
+  text-shadow: 0 0 8px #00ffc880;
+}
+
+ul#laps {
+  max-height: 180px;
+  overflow-y: auto;
+  padding-left: 0;
+  list-style: none;
+}
+
+ul#laps li {
+  background: rgba(255, 255, 255, 0.1);
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul#laps li button {
+  background: none;
+  color: #ff4f4f;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+

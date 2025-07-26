@@ -13,7 +13,6 @@ A modern, responsive stopwatch web application built using **HTML5**, **CSS3**, 
 
 ![Stopwatch UI Preview](https://github.com/sanjanagpatil/PRODIGY_WD_02/blob/b69d14bbdf2217d0f227a8e477e7e732d02a2f61/preview%20image.png)
 
-> *(Add your screenshot named `preview.png` in the repo root or replace with actual image link)*
 
 ---
 

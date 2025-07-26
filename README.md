@@ -18,9 +18,9 @@ A modern, responsive stopwatch web application built using **HTML5**, **CSS3**, 
 
 ## 🚀 Live Demo
 
-🌐 [Live Stopwatch App](https://your-username.github.io/stopwatch-app)
+🌐 [Live Stopwatch App](https://sanjanagpatil.github.io/PRODIGY_WD_02/)
 
-> *(Update this URL if deployed on GitHub Pages, Netlify, Vercel, etc.)*
+
 
 ---
 
